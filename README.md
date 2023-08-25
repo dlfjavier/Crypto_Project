@@ -26,16 +26,16 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 - |-- README.md
 - |-- csv/
 - |-- eda/
-- |   |-- avalanche-2.ipynb
-- |   |-- binancecoin.ipynb
-- |   |-- bitcoin.ipynb
-- |   |-- cardano.ipynb
-- |   |-- chainlink.ipynb
-- |   |-- ethereum.ipynb
-- |   |-- polkadot.ipynb
-- |   |-- polygon.ipynb
-- |   |-- solana.ipynb
-- |   |-- vechain.ipynb
+- |  |-- avalanche-2.ipynb
+- |  |-- binancecoin.ipynb
+- |  |-- bitcoin.ipynb
+- |  |-- cardano.ipynb
+- |  |-- chainlink.ipynb
+- |  |-- ethereum.ipynb
+- |  |-- polkadot.ipynb
+- |  |-- polygon.ipynb
+- |  |-- solana.ipynb
+- |  |-- vechain.ipynb
 - |-- json/
 - |-- ...
 
