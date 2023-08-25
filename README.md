@@ -20,7 +20,7 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 
 ### Estructura
 
-- -Crypto_Project/
+- Crypto_Project/
 - |-- etl.ipynb
 - |-- informe.pdf
 - |-- README.md
