@@ -22,7 +22,10 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 
 ### Estructura
 
-![Estructura del proyecto](images/Estructura.png)
+
+<img src="images/estructura.png" alt="Descripción de la imagen" width="300">
+
+
 
 - `Crypto_Project/`: directorio raíz del repositorio de GitHub, contiene todos los archivos y carpetas relacionados con el proyecto.
 - `informe.pdf`: archivo que contiene reporte de análisis, 
