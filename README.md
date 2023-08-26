@@ -11,6 +11,8 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 - KPIs sugerir 3 KPIs adecuadamente representados de forma visual en el dashboard.
 - Repositorio de GitHub debe contener un Readme y un reporte de análisis
 
+
+
 ### Resolución:
 - Desarrollo en Python.
 - Fuente de datos: API CoinGecko, API Binance
@@ -39,6 +41,23 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 - |-- json/
 - |-- ...
 
+
+- draft_Api/
+- |-- eda.ipynb
+- |-- main.py (API FastAPI)
+- |-- requirements.txt (dependencias para la Api)
+- |-- datasets/
+- |-- def/
+- |-- etl/
+- |-- venv/
+- |-- front_end/
+- |   |-- app.py (Frontend Flask)
+- |   |-- requirements.txt (dependencias para el frontend)
+- |   |-- templates/
+- |   |   |-- index.html
+- |   |-- static/
+- |       |-- style.css
+- |-- ...
 
 - `Crypto_Project/`: directorio raíz del repositorio de GitHub, contiene todos los archivos y carpetas relacionados con el proyecto.
 - `informe.pdf`: archivo que contiene reporte de análisis, 
