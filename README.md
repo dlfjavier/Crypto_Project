@@ -31,11 +31,11 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 - `README.md`: notebook que contiene código utilizado para realizar la extracción, transformación y carga de datos (Extract, Transform-ETL).
 - `csv/`: directorio que contiene los archivos obtenidos de laa Api CionGecko por cada criptomoneda elegida para el proyecto.
 - `eda/`: directorio que contiene un notebook por cada criptomoneda elegida con el análisis exploratorio de los datos (Exploratory Data Analysis-EDA).
-- `imges/`: directorio que contiene imagenes paaraa el README.
+- `imges/`: directorio que contiene imagenes para el README.
 
 ### Escala
-En función de consignas y requerimientos se obtuvo la fecha mas antigua de registro de datos en la Api. para cada criptomoneda, a partir de ahi datasets individuales.
-Los mismos pueden tener una cantidad de datos insuficientes para conclusiones definitivas pero se entiende aadecuado a los fines pedaagogicos de este trabajo. 
+En función de consignas y requerimientos se obtuvo la fecha mas antigua de registro de datos en la Api para cada criptomoneda, a partir de ahi datasets individuales.
+Los mismos pueden tener una cantidad de datos insuficientes para conclusiones definitivas pero se entiende adecuado a los fines pedaagogicos de este trabajo. 
 
 ### Autor
 Javier de la Fuente  dlfavier@gmail.com
