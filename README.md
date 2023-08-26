@@ -22,42 +22,7 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 
 ### Estructura
 
-- Crypto_Project/
-- |-- etl.ipynb
-- |-- informe.pdf
-- |-- README.md
-- |-- csv/
-- |-- eda/
-- |  |-- avalanche-2.ipynb
-- |  |-- binancecoin.ipynb
-- |  |-- bitcoin.ipynb
-- |  |-- cardano.ipynb
-- |  |-- chainlink.ipynb
-- |  |-- ethereum.ipynb
-- |  |-- polkadot.ipynb
-- |  |-- polygon.ipynb
-- |  |-- solana.ipynb
-- |  |-- vechain.ipynb
-- |-- json/
-- |-- ...
-
-
-- draft_Api/
-- |-- eda.ipynb
-- |-- main.py (API FastAPI)
-- |-- requirements.txt (dependencias para la Api)
-- |-- datasets/
-- |-- def/
-- |-- etl/
-- |-- venv/
-- |-- front_end/
-- |   |-- app.py (Frontend Flask)
-- |   |-- requirements.txt (dependencias para el frontend)
-- |   |-- templates/
-- |   |   |-- index.html
-- |   |-- static/
-- |       |-- style.css
-- |-- ...
+![Estructura del proyecto](images/Estructura.png)
 
 - `Crypto_Project/`: directorio raíz del repositorio de GitHub, contiene todos los archivos y carpetas relacionados con el proyecto.
 - `informe.pdf`: archivo que contiene reporte de análisis, 
