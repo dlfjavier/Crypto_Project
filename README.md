@@ -22,8 +22,7 @@ Se puede leer el contexto y rol a desarrollar en https://github.com/soyHenry/PI_
 
 ### Estructura
 
-
-<img src="images/estructura.png" alt="Descripción de la imagen" width="220">
+<img src="images/estructura.png" alt="Estructura del Proyecto" width="220">
 
 
 
